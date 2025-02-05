@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9b289971-9bf4-421a-8285-c009af196e17)# Andrew Disharoon
+# Andrew Disharoon
 **🖥️📊 Data Scientist | Bioinformatics Specialist | AI & ML | Sometimes uses a pipette 🧬🧫**  
 
 ---
