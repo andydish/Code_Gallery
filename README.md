@@ -1,6 +1,5 @@
 # Andrew Oakes Disharoon, MS  
 **🖥️📊 Data Scientist | Bioinformatics Specialist | AI & ML | Sometimes uses a pipette 🧬🧫**  
-[LinkedIn](https://www.linkedin.com/in/andrew-disharoon)
 
 ---
 
@@ -41,4 +40,4 @@ I’m Andrew: a data geek, molecular biologist, and optimist. My career spans ev
 ## Let’s Connect!
 - **LinkedIn**: [Andrew Disharoon](https://www.linkedin.com/in/andrew-disharoon)  
 
-*Sorry more of my code is not publicly available. That happens when you work in industry but check out my InfoMedEx project in my **Project_Gallery**.* 
+*Sorry more of my code is not publicly available. That happens when you work in industry but check out my **InfoMedEx** drug interaction deep learning project slides.* 
