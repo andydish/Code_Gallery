@@ -27,7 +27,7 @@ I’m Andrew: a data geek, molecular biologist, and optimist. My career spans ev
 - **Leadership & Management:**  
   IT management, cross-functional teams, project direction, and strategic planning
 
-*(Yes, I wear many hats—and occasionally even remember to take them off at night.)*
+*(Yes, I wear many hats and occasionally even remember to take them off at night.)*
 
 ## Publications & Awards
 
