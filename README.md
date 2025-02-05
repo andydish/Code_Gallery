@@ -1,4 +1,4 @@
-# Andrew Disharoon
+![image](https://github.com/user-attachments/assets/9b289971-9bf4-421a-8285-c009af196e17)# Andrew Disharoon
 **🖥️📊 Data Scientist | Bioinformatics Specialist | AI & ML | Sometimes uses a pipette 🧬🧫**  
 
 ---
@@ -34,7 +34,7 @@ I’m Andrew: a data geek, molecular biologist, and optimist. My career spans ev
 ## Publications & Awards
 
 - **Data Meets Papers:** Author on papers in **drug-drug interactions** 💊, **beer brewing science** 🍻, **cancer treatments** 🦀, and **"omics"** 🧬.  
-- **Wade Stackhouse Fellowship** (Clemson) & **Multiple Undergrad Research Scholarships** (UGA).  
+- **Wade Stackhouse Fellowship** & **Multiple Research Scholarships**.  
 - **In total**: 10+ publications and presentations (with a few manuscripts "in preparation", just how I like it).
 
 ---
