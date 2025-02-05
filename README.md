@@ -18,7 +18,7 @@ I’m Andrew: a data geek, molecular biologist, and optimist. My career spans ev
 - **Data Science & ML:**  
   NLP | Deep Learning | Generative AI | TensorFlow | PyTorch | Keras | Scikit-Learn
 - **Analytics & Visualization:**  
-  Pandas | NumPy | Plotly | Dash | PowerBI | Tableau | Matplotlib
+  Pandas | NumPy | Plotly | Dash | PowerBI | Tableau | Matplotlib | Seaborn
 - **Bioinformatics & Genomics:**  
   NGS | GWAS | CHIP-Seq | PCR/qPCR | Pharmacogenomics | Cancer Genetics
 - **Cloud & DevOps:**  
