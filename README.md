@@ -31,12 +31,6 @@ I’m Andrew: a data geek, molecular biologist, and optimist. My career spans ev
 
 *(Yes, I wear many hats and occasionally even remember to take them off at night.)*
 
-## Publications & Awards
-
-- **Data Meets Papers:** Author on papers in **drug-drug interactions** 💊, **beer brewing science** 🍻, **cancer treatments** 🦀, and **"omics"** 🧬.  
-- **Wade Stackhouse Fellowship** & **Multiple Research Scholarships**.  
-- **In total**: 10+ publications and presentations (with a few manuscripts "in preparation", just how I like it).
-
 ---
 
 ## Let’s Connect!
